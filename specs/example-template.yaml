@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: An empty API spec
+  title: An empty API spec with a proposed change
   version: "0.1.0"
   contact: 
     name: "The team name going to implement this spec"
