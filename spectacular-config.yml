@@ -7,6 +7,10 @@ catalogues:
       interface1:
         specFile:
           filePath: "specs/example-template.yaml"
+      interfaceTags1:
+        specFile:
+          filePath: "specs/example-template.yaml"
+          repo: "specmore/specs-test-tags"
       interface2:
         specFile:
           filePath: "specs/error-example.yaml"
