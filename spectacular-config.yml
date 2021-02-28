@@ -11,6 +11,9 @@ catalogues:
         specFile:
           filePath: "specs/example-template.yaml"
           repo: "specmore/specs-test-tags"
+        specEvolutionConfig:
+          mainBranchConfig:
+            branchName: master
       interface2:
         specFile:
           filePath: "specs/error-example.yaml"
