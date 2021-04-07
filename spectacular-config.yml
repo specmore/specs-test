@@ -30,3 +30,8 @@ catalogues:
           filePath: "specs/example-template.yaml"
           repo: "specmore/specs-test-no-access"
       interface5:
+      interface6:
+        specFile:
+      interface7:
+        specEvolutionConfig:
+
