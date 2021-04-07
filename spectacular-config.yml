@@ -29,3 +29,4 @@ catalogues:
         specFile:
           filePath: "specs/example-template.yaml"
           repo: "specmore/specs-test-no-access"
+      interface5:
